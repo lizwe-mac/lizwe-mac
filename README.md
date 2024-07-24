@@ -10,10 +10,9 @@ I build responsive web apps for clients using Javascript and Wordpress
 *   🖥️  See my portfolio at [lizwe.netlify.app](http://lizwe.netlify.app)
 *   ✉️  You can contact me at [macginyani@gmail.com](mailto:macginyani@gmail.com)
 
-
-<a href="https://www.twitter.com/dingiilizwe" target="_blank" rel="noreferrer"><img
+<!--<a href="https://www.twitter.com/dingiilizwe" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/dingiilizwe?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+                /></a>-->
 
 ### Skills
 <p align="left">
@@ -39,11 +38,5 @@ I build responsive web apps for clients using Javascript and Wordpress
 ### Socials
                   
 <p align="left"> <a href="https://www.github.com/lizwe-mac" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/macdonaldginyani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dingiilizwe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/lizwe-mac"><img src="https://github-readme-stats.vercel.app/api?username=lizwe-mac&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lizwe-mac's GitHub stats" /></a>
 
 <!-- <a href="https://github.com/lizwe-mac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizwe-mac&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
