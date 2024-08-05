@@ -4,9 +4,8 @@ Hi 👋 I'm Lizwe MacDonald
 Web and Mobile App Developer
 ----------------------------
 
-I build responsive web apps for clients using Javascript and Wordpress
+I build responsive apps
 
-*   🌍  I'm based in Johannesburg, South Africa
 *   🖥️  See my portfolio at [lizwe.netlify.app](http://lizwe.netlify.app)
 *   ✉️  You can contact me at [macginyani@gmail.com](mailto:macginyani@gmail.com)
 
@@ -37,6 +36,6 @@ I build responsive web apps for clients using Javascript and Wordpress
 
 ### Socials
                   
-<p align="left"> <a href="https://www.github.com/lizwe-mac" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/macdonaldginyani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dingiilizwe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/macdonaldginyani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <!-- <a href="https://github.com/lizwe-mac" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lizwe-mac&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
